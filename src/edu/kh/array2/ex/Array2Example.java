@@ -112,7 +112,7 @@ public class Array2Example {
 		//가변 배열
 		// -2차원 배열 생성 시 마지막 배열 차수(열)를 지정하지 않고
 		// 나중에 서로 크기가 다른 1차원 배열을 생성하여 참조하는 배열
-		
+		// https://velog.io/@zinoah/Loof-%EB%B0%98%EB%B3%B5%EB%AC%B8
 		// 시험에 나오진 않음
 		
 		char[][] arr = new char[4][];
@@ -131,6 +131,7 @@ public class Array2Example {
 			}
 		}
 		System.out.println(Arrays.deepToString(arr));
+		//11123123
 				
 	}
 	
