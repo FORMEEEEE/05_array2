@@ -58,7 +58,7 @@ public class Array2Example {
 			}
 		}
 		// Arrays.toString(배열명) : 참조하고 있는 1차원 배열 값을 문자열로 변환
-		System.out.println(Arrays.toString(arr));
+		//System.out.println(Arrays.toString(arr));
 		// Arrays.deepToString(배열명)
 		// - 참조하고있는 배열의 데이터가 나오는 부분까지 파고들어가서
 		// 모든 값을 문자열로 변환
@@ -135,7 +135,10 @@ public class Array2Example {
 				
 	}
 	
-	
+	public class Menber{
+		private String name;//이게 필드
+		
+	}
 	
 	
 	
